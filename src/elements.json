@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "Milk 1l",
+        "cart": false
+    },
+    {
+        "id": 2,
+        "title": "Eggs Medium 12pack",
+        "cart": false
+    },
+    {
+        "id": 3,
+        "title": "Fresh Basil",
+        "cart": false
+    },
+    {
+        "id": 4,
+        "title": "Wholegrain Bread 1pkg",
+        "cart": false
+    },
+    {
+        "id": 5,
+        "title": "Ground Coffee 200g",
+        "cart": false
+    },
+    {
+        "id": 6,
+        "title": "Red Wine",
+        "cart": false
+    },
+    {
+        "id": 7,
+        "title": "Mozzarella Chese 150g",
+        "cart": false
+    },
+    {
+        "id": 8,
+        "title": "Orange Juice 1l",
+        "cart": false
+    },
+  
+    {
+        "id": 9,
+        "title": "Tomatoes",
+        "cart": false
+    }
+]
