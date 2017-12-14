@@ -242,6 +242,9 @@ header a.no-active-link{
 
 .moved-right {
     justify-content: flex-end;
+    width: 300px;
+    transform: translateX(360px);
+    transition: transform 600ms ease-in-out;
 }
 
 @media screen and (max-width: 992px){
